@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "sistema_biblioteca_dart"
+  ],
+  "packages": [
+    {
+      "name": "sistema_biblioteca_dart",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
